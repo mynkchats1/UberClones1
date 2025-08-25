@@ -9,7 +9,7 @@ const WaitingForDriver = (props) => {
                 }}><i className="text-3xl text-gray-200 ri-arrow-down-wide-fill"></i></h5>
                 <div className="flex justify-between  items-center ">
                     <img className="h-15" src="https://imgs.search.brave.com/sF-5kejRgm39C055VyR-8kiQQPLkuaTG1zMEl6HCidc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDgv/NTg5LzUwNi9zbWFs/bC9tb2Rlcm4tY2Fy/LWlzb2xhdGVkLW9u/LWJhY2tncm91bmQt/M2QtcmVuZGVyaW5n/LWlsbHVzdHJhdGlv/bi1wbmcucG5n" alt="" />
-                    <div className='text-right'>
+                    <div className='text-left'>
                         <h2 className='text-lg font-medium'>Batman</h2>
                         <h4 className='text-xl font-semibold'>NX 58 QY 7657</h4>
                         <p className='text-sm text-gray-600'>Ford Innova </p>
