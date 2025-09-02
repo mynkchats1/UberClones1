@@ -176,7 +176,7 @@ const Captainsignup = () => {
                 <p className="text-center">Already Have an Account? <Link to='/captain-login' className="text-blue-600">Login Here</Link></p>
             </div >
             <div>
-                <p className="text-xs font-bold">Our <span className="underline">Terms</span> and <span className="underline">Conditions</span> Generator makes it easy to create a Terms and Conditions agreement for your business</p>
+                <p className="text-xs mt-6 font-bold">Our <span className="underline">Terms</span> and <span className="underline">Conditions</span> Generator makes it easy to create a Terms and Conditions agreement for your business</p>
             </div>
         </div >
     )
